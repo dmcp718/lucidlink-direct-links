@@ -1,6 +1,6 @@
 # LucidLink Direct Links
 
-A utility for generating and managing direct links for LucidLink files. This tool provides efficient handling of direct link generation for both v2 and v3 of the LucidLink API.
+A Python module for generating and managing direct links for LucidLink files. This tool provides efficient handling of direct link generation for both v2 and v3 filespace using the local client LucidLink REST API.
 
 ### Installation
 
