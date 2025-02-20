@@ -2,18 +2,21 @@
 
 A utility for generating and managing direct links for LucidLink files. This tool provides efficient handling of direct link generation for both v2 and v3 of the LucidLink API.
 
-### Virtual Environment Setup
+### Installation
 
-To create a new virtual environment, run the following command:
+1. Clone this repository:
+```bash
+git clone https://github.com/your-org/lucidlink-direct-links.git
+cd lucidlink-direct-links
+```
+
+2. Create and activate a virtual environment:
 ```bash
 python3 -m venv venv
-```
-Then, activate it with:
-```bash
 source venv/bin/activate
 ```
 
-Then, install the required dependencies by running:
+3. Install the package and its dependencies:
 ```bash
 pip install -r requirements.txt
 ```
